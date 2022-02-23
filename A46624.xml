@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at New Market, October 11, 1674 by Henry James ...</title>
+            <author>James, Henry, d. 1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46624</idno>
+            <idno type="STC">Wing J426</idno>
+            <idno type="STC">ESTC R229420</idno>
+            <idno type="EEBO-CITATION">12889128</idno>
+            <idno type="OCLC">ocm 12889128</idno>
+            <idno type="VID">95068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 716:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at New Market, October 11, 1674 by Henry James ...</title>
+                  <author>James, Henry, d. 1717.</author>
+               </titleStmt>
+               <extent>[2], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid, and are to be sold by M. Pitt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke I, 74, 75 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95068:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the KING AT NEVV MARKET, <hi>October</hi> 11. 1674. By <hi>HENRY JAMES,</hi> Chaplain in Ordinary to His Majeſty, And Fellow of <hi>Queen's Colledge</hi> in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>Printed by His Majeſties ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Godbid,</hi> and are to be Sold by <hi>M. Pitt</hi> at the <hi>Angel</hi> againſt the Little North Door of St. <hi>Paul</hi>'s Church. 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95068:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:95068:2" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St. LUKE 1.74, 75.</hi>
+                  </bibl>
+                  <p>—Might ſerve him without fear, in holineſs and righteouſneſs before Him all the days of our life.</p>
+               </q>
+            </epigraph>
+            <p>WHoever he be that conſiders him<g ref="char:EOLhyphen"/>ſelf, and that ſeriouſly reflects upon his own frame and conſti<g ref="char:EOLhyphen"/>tution, or thoſe excellent purpoſes he ſeems by God and Nature fitted for, can neither con<g ref="char:EOLhyphen"/>clude himſelf the Author of his own Being, or deſign'd to live only to himſelf, without any regard at all to a Superiour.</p>
+            <p>The perpetual Obligations he lies under for being made man, and that common protection
+<pb n="2" facs="tcp:95068:3" rendition="simple:additions"/>of Life whereby he is ſupported, the Mercies of Health and Liberty, and the reaſonable ex<g ref="char:EOLhyphen"/>pectation of Happineſs hereafter, muſt needs mind him of a Duty owing to the Benign Parent of all things, to the Comfort and Stay of our Lives, our God and Saviour.</p>
+            <p>For Creatures being nothing elſe but Ema<g ref="char:EOLhyphen"/>nations from God, that overflowing Fountain of Goodneſs, as all of them, in their ſeveral ranks owe both their beings and their depen<g ref="char:EOLhyphen"/>dances to Him, ſo 'tis their Nature to act always to His Glory that made them; every Plant and Stone, the Beaſts of the Field, and the Fowls of the Air, the Fiſhes of the Sea, and the more glorious Bodies of the Firmament, proſecute the Deſign of their Maker, and ſerve Him to their power: Reaſonable therefore it is that Man, who is Superiour to them all, (who is or<g ref="char:EOLhyphen"/>dain'd to a better end, and vouchſafed ſuitable abilities for its attainment,) ſhould ſerve his God, not as the meaner parts of the Creation, in a Mechanical, neceſſary way, but with free<g ref="char:EOLhyphen"/>dom and liberty, with reaſon and underſtand<g ref="char:EOLhyphen"/>ing, <hi>in holyneſs and Righteouſneſs before Him all the days of his life.</hi>
+            </p>
+            <pb n="4" facs="tcp:95068:3" rendition="simple:additions"/>
+            <p>From theſe words, without conſidering them as part of the Propheſie of <hi>Zacharias,</hi> or upon what account ſpoken, or to what they refer,<note place="margin">
+                  <hi>Gen.</hi> 22.16.</note> I propound to diſcourſe very plainly upon theſe two Particulars.</p>
+            <list>
+               <item>I. What the <hi>ſerving of God in general</hi> does ſup<g ref="char:EOLhyphen"/>poſe.</item>
+               <item>II. Conſider that Service with reference to ſuch qualifications as the Text mentions,
+<list>
+                     <item>(1.) <hi>without fear,</hi>
+                     </item>
+                     <item>(2.) <hi>before him,</hi>
+                     </item>
+                     <item>(3.) <hi>all the days of our life.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p n="1">I. As for the <hi>ſerving of God,</hi> it does ſuppoſe in the firſt place:</p>
+            <p>Such a firm perſwaſion of the Being of the true God, and ſuch a belief of that manife<g ref="char:EOLhyphen"/>ſtation which He has made of Himſelf, and of His Will to Mankind, as will produce in us an habitual ſenſe of His Goodneſs, Juſtice, and Providence in the management of human af<g ref="char:EOLhyphen"/>fairs: This of it ſelf cannot ſo ſtrictly be called His Service, as the foundation of it, and of all Religion; for Religion being nothing elſe, but that, by which we come to the attainment of Happineſs, and the Happineſs of Man, conſiſt<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:95068:4" rendition="simple:additions"/>in the Favour of God, if there be no be<g ref="char:EOLhyphen"/>lief that this God is, then no hopes of enjoying His Favour; if no hopes of enjoying His Fa<g ref="char:EOLhyphen"/>vour, then no pretence to Happineſs; if no pretence to Happineſs, 'tis in vain to uſe any means for the attainment of what we cannot reaſonably perſwade our ſelves ever will be, that is, 'tis in vain to be Religious; therefore ſays the Apoſtle to the <hi>Hebrews,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.6.</note> 
+               <hi>He that cometh unto God, muſt firſt believe that He is;</hi> and then, <hi>that He is a Rewarder of all thoſe that diligently ſeek Him;</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 22.29. &amp; 1.3.</note> as alſo, <hi>that He is a conſuming fire;</hi> and further, <hi>that he upholds all things by the VVord of His Power.</hi>
+            </p>
+            <p>By believing that He is, we are naturally carried on to ſome ſervice and worſhip; by believing that He is good to us, will encreaſe our love to Him, <hi>and this is the love of God, that we keep his Commandments;</hi> by believing that He is juſt, will make us tremble at His terrours, and fear to offend Him; by believing that He governs the World, will poſſeſs us always with a ſenſe of His over-ruling Power in our imme<g ref="char:EOLhyphen"/>diate Concerns: And ſo have this twofold good effect.</p>
+            <pb n="5" facs="tcp:95068:4" rendition="simple:additions"/>
+            <p n="1">1. It will confirm us in a ſubmiſſion to the Divine Will in all accidents what ever, be<g ref="char:EOLhyphen"/>cauſe the very conſideration that Infinite Wiſ<g ref="char:EOLhyphen"/>dom, and Infinite Goodneſs (both which Pro<g ref="char:EOLhyphen"/>vidence ſuppoſes) are engag'd in the diſpoſal of things, is of it ſelf Argument ſufficient with wiſe and humble Men, to allay all their ſolli<g ref="char:EOLhyphen"/>citudes, and to reſt very much pleas'd with God's Diſpenſations towards them, though they may be contrary to what they could have wiſh'd to themſelves.</p>
+            <p n="2">2. It will likewiſe encourage our addreſſes to the Throne of Grace, becauſe the belief of Providence ſuperſedes the uncomfortable con<g ref="char:EOLhyphen"/>ſequences, which neceſſarily ariſe from an opi<g ref="char:EOLhyphen"/>nion that the World is govern'd either by Fate, or giddy Chance; ſuppoſing there be any real difference betwixt them, which ſome perhaps not ſo well skill'd in Philoſophy have imagin'd.</p>
+            <p>For, whether the one or the other be ſaid to govern, to put up any petitions would be e<g ref="char:EOLhyphen"/>qually unreaſonable; if our tears or cries could alter the courſe of Deſtiny, or make Fate flexi<g ref="char:EOLhyphen"/>ble, Fate would not be it ſelf.</p>
+            <pb n="6" facs="tcp:95068:5" rendition="simple:additions"/>
+            <p>Or if the ſame tears could determin acciden<g ref="char:EOLhyphen"/>tal Cauſes to neceſſary or certain Effects, there would neither be any proportion betwixt them and their Cauſe, or indeed any Effects in them<g ref="char:EOLhyphen"/>ſelves fortuitous, becauſe determinable, that is, there would be no Chance at all; which is againſt the Hypotheſis.</p>
+            <p>So that the perſwaſion of God's preſiding over His Creatures being the reaſonable ground of our Prayers, and this, together with the love and fear of Him (from whence flow the moſt forcible arguments to a good life) depending upon a belief that He is, it ſeems to follow, that ſuch a belief is one Inſtance of, or at leaſt the firſt ſtep to His Service.</p>
+            <p n="2">II. Serving God ſuppoſes a ſerious exerciſe of Devotion, and a confcienſcious diſcharge of all thoſe Offices, which are comprehended un<g ref="char:EOLhyphen"/>der the name of <hi>Worſhip.</hi>
+            </p>
+            <p>This is that which all Nations, People, and Languages, in ſome manner or other, have pretended to; for ſince there are none ſo bar<g ref="char:EOLhyphen"/>barous, but what own the being of a God, ſince the univerſal conſent of all Mankind to
+<pb n="7" facs="tcp:95068:5" rendition="simple:additions"/>this purpoſe, proves the Notion to be congenite with us, the conſequence is very plain and obvious, that therofore ſome worſhip, and ſome expreſſions of homage ought to be paid unto Him.</p>
+            <p>Neither can it eaſily be made appear, that either the one, or the other, have ever been denied, unleſs by ſome few Scioliſts, and pre<g ref="char:EOLhyphen"/>tenders to a greater ſagacity in the knowledge of all things than others, who to raiſe them<g ref="char:EOLhyphen"/>ſelves an eſteem of wiſdom and underſtanding above their fellows, have adventur'd the que<g ref="char:EOLhyphen"/>ſtioning of them both, to the betraying of their wit, modeſty, and the deſplicableneſs of (what ſuch men chiefly value themſelves upon) their own natural parts.</p>
+            <p>So that the acknowledgment of a God be<g ref="char:EOLhyphen"/>ing as univerſal as the Race of Mankind, there is a neceſſity that that of Worſhip ſhould be of the ſame extent; for whoever own'd that Being worthy to be call'd a God, to whom he thought not himſelf oblig'd to pay all that adoration and honour, which the very conception of ſuch a Being imports he ſhould.</p>
+            <pb n="8" facs="tcp:95068:6" rendition="simple:additions"/>
+            <p>Nay, that variety of Religions which appears in the World, though it proves that Men have different opinions concerning the Nature of God; yet it ſtrongly concludes likewiſe, both, that ſome Religion is true, as alſo that Worſhip, without which there can be no Religion, is part of that Service which all contend in the main is due to Him.</p>
+            <p>As for Chriſtians, who have had the benefit of Revelation, they cannot well be ignorant what particulars of Worſhip, as to the matter of it, are requir'd of them.</p>
+            <p>Prayer, and the ſeveral parts of it, Praiſes and Songs of Thanks, and a due reception of the bleſſed Sacraments, are in the language of the Church peculiarly ſtil'd <hi>God's Service;</hi> and who ever lives in the wilful omiſſion of any of theſe, does ſacrilegiouſly defraud God of His due, and deprive himſelf of what would prove in its conſequence his greateſt advantage.</p>
+            <p>The uſe of them being not only the beſt ſig<g ref="char:EOLhyphen"/>nification we can make of our regard to Hea<g ref="char:EOLhyphen"/>ven, but alſo the moſt immediate means to that Glory which all in the General aim at.</p>
+            <pb n="9" facs="tcp:95068:6" rendition="simple:additions"/>
+            <p>For God being the God of Order and Decency, as he has deſign'd all his Creatures to a per<g ref="char:EOLhyphen"/>fection ſuitable to their natures, ſo has it pleas'd His Wiſdom to appoint ſeveral ways whereby they may arrive at it.</p>
+            <p>Now Salvation, or Happineſs, or Eternal Life, or by what other Name ſoever it be call'd, being the End of Rational Creatures, and there<g ref="char:EOLhyphen"/>fore being that wherein their perfection does conſiſt, and by Chriſt has appointed our poor Services, a bended Knee, and a broken Heart, Prayers and Supplications iſſuing forth from a pure and humble Spirit, and a worthy partici<g ref="char:EOLhyphen"/>pation of the Holy Myſteries, to be as paſſages and channels, whereby another manner of Spirit, than what by Nature we have, is conveyed into us; by theſe as Inſtruments we are regene<g ref="char:EOLhyphen"/>rated, ſanctified, and juſtified.</p>
+            <p>By theſe our Faith is confirmed, we grow ſtrong in the power of God, and are enabled to live anſwerable to our great and heavenly Calling; by theſe we become qualified to par<g ref="char:EOLhyphen"/>take of the benefit of the expiation made for the Sins of the World, that is, of being for ever happy.</p>
+            <pb n="10" facs="tcp:95068:7" rendition="simple:additions"/>
+            <p>The uſe therefore of theſe means, which does ſo much advance to the Glory of God, (as nothing does it more than the Salvation of Sinners,) and which He Himſelf has required of us, muſt needs be concluded an eſſential part of His Service.</p>
+            <p n="3">III. Serving God, ſuppoſes our being holy, and unblameable in our converſation; this is the ſum and intent of both the former, for no Man is oblig'd to believe in the true God, or to love and fear Him, but that ſuch a belief, and ſuch affections ſhould influence his practice; no Man is bound to uſe the means of Religion, but as ſuch means are moſt effectual to the re<g ref="char:EOLhyphen"/>miſſion of ſins, the perfecting of our Natures, and the bringing forth much fruit, whereby God is glorified.</p>
+            <p>This ſeems to be the principal Deſign of God's enduing Man at firſt with a capacity of knowing and doing things excellent, and of revealing His Will to him.</p>
+            <p>God gave Man a perfect underſtanding, an upright will, and a Law to walk by, with many motives to perſwade him to Obedience, that by obeying, he might preſerve himſelf pure
+<pb n="11" facs="tcp:95068:7" rendition="simple:additions"/>and undefiled in his firſt innocency: It is true, beſides thoſe moral Duties, to which the <hi>Jews,</hi> as well as others, were antecedently, to any poſitive Law, oblig'd, there were ſeveral Com<g ref="char:EOLhyphen"/>mands of another nature given that People, which ſeem'd weak, and not at all perfective of human Nature; but theſe, how beggerly ſo<g ref="char:EOLhyphen"/>ever they were, were types and ſhadows of things heavenly and ſpiritual, and therefore the reſting in the bare performance of theſe, without living up to what they ſignified, was frequently by God Himſelf upbraided to his own People.</p>
+            <p>Further yet, this was the intent of God's ſending His Son into the World:<note place="margin">
+                  <hi>Tit.</hi> 2.14.</note> 
+               <hi>He gave Him<g ref="char:EOLhyphen"/>ſelf for us,</hi> ſays the Apoſtle, <hi>that He might re<g ref="char:EOLhyphen"/>deem us from all iniquity, and purifie unto Himſelf a peculiar people, zealous of good works:</hi> And there<g ref="char:EOLhyphen"/>fore I cann't but take notice of an Opinion, which in its effects muſt needs be deſtructive to the Maintainers of it, namely, that they who live in the obſervance of the means of Religion, do by that, fulfil all righteouſneſs; and that to pray, faſt, or receive the Supper
+<pb n="12" facs="tcp:95068:8" rendition="simple:additions"/>of the Lord, is to diſcharge the whole of their Duty.</p>
+            <p>Indeed theſe are ſo far good, in as much as God has commanded them, and ſo were the <hi>Jewiſh</hi> Sacrifices; but God commanded them not meerly for themſelves, but as inſtruments and helps, whereby we might be better Men.</p>
+            <p>By the frequent and conſcientious uſe of theſe, we receive unvaluable Bleſſings, as a greater power to ſubdue our corruptions, and to per<g ref="char:EOLhyphen"/>fect holineſs in the fight of God.</p>
+            <p>But theſe are not Meekneſs, Humility, Cha<g ref="char:EOLhyphen"/>rity, Patience; theſe are not Chaſtity, Sobriety, Temperance; theſe are not viſiting the Father<g ref="char:EOLhyphen"/>leſs and Widow in their Affliction, and keeping our ſelves unſpotted from the World.</p>
+            <p>So that the Conſequence is not, nor ever will be true, I faſt, I pray, I commemorate my Saviour's Death, therefore I am to all intents and purpoſes a good Chriſtian; unleſs it can be prov'd, which it never can, that this was the chief intent of Chriſt's appearance in the fleſh.</p>
+            <p>Theſe are good ſigns it is confeſs'd, that we
+<pb n="13" facs="tcp:95068:8" rendition="simple:additions"/>have a due ſenſe of Religion, and of our Duty, but this is not a being renew'd in the ſpirit of our minds, this is not <hi>putting on the new man,</hi> for that is <hi>created after God in righteouſneſs and true holineſs.</hi>
+               <note place="margin">Epheſ. <hi>4.24.</hi>
+               </note>
+            </p>
+            <p>For, Beſides what the Scripture ſays to this purpoſe, that we may hold the truth in un<g ref="char:EOLhyphen"/>righteouſneſs; that we may eat and drink the Body and Blood of Chriſt, and yet do it to our own damnation; that we may faſt and pray, and yet be condemn'd for Hypocrites.</p>
+            <p>Can common ſenſe tell any one, that God in his Wiſdome ſhould make ſuch ſtrange pro<g ref="char:EOLhyphen"/>viſions for the Salvation of Man, be ſo expen<g ref="char:EOLhyphen"/>ſive of His Son's Blood, permit Him to endure all the wounds and afflictions of the Croſs, to no other intent and purpoſe, but that Men might be enduc'd, by that ſuperabundancy of His love, to give their aſſent to ſuch or ſuch a Propo<g ref="char:EOLhyphen"/>ſition, deliver'd as true upon Divine Teſtimony, that is, to believe:</p>
+            <p>Or to eat a little Bread, or drink a little Wine, or repeat a few Prayers at ſome certain ſeaſons.</p>
+            <pb n="14" facs="tcp:95068:9" rendition="simple:additions"/>
+            <p>This is ſo very fond, that not only Chriſtia<g ref="char:EOLhyphen"/>nity, but Paganiſm it ſelf condemns it; for this is the voice of Heathens, that nothing but being conform'd to the Will of the Gods they worſhipp'd, can properly be call'd their Service, or qualifie them for that Hapineſs which each particular Sect of Men have fancied to them<g ref="char:EOLhyphen"/>ſelves; nothing but living up to that Religion they profeſs, whether it be true or falſe, can be pleaſing to the Deity, or procure them that ſtate wherein they imagin'd Happineſs to conſiſt.</p>
+            <p>And this is the laſt and moſt comprehenſive Inſtance of our Serving God, <hi>viz.</hi> our being <hi>holy</hi> and <hi>righteous:</hi> And thus I come to the ſecond General, which is, to conſider the Serving God with ſuch qualifications as are mention'd in the Text; and the firſt is,</p>
+            <p>
+               <hi>Without fear:</hi> Which words do immediately refer to our being deliver'd out of the hand of our enemies, and imply our being ſafe and ſecure from the danger of ſuch as would hinder us in our Duty towards God and Man.</p>
+            <p>For 'tis not to be imagin'd, that to fear and worſhip the ſame God are inconſiſtent, or that
+<pb n="15" facs="tcp:95068:9" rendition="simple:additions"/>this expreſſion ſhould juſtifie us in diſregarding His Judgments, or ſlighting His Terrours, which the Apoſtles themſelves made uſe of to perſwade Men,<note place="margin">
+                  <hi>Heb.</hi> 12.28.</note> for we know <hi>we ought to ſerve Him with reverence and godly fear;</hi> and that <hi>the fear of the Lord is the beginning of Wiſdom;</hi> and that <hi>our ſalvation is to be wrought out with fear and trembling.</hi>
+            </p>
+            <p>But what I would urge from this paſſage is, That that Fear of God which ariſes from our framing to our ſelves unworthy conceptions of Him, as a Being more revengeful than good, is a Parent of no leſs extravagant Opinions, than monſtrous Practices in Religion, and therefore will very much prejudice the accep<g ref="char:EOLhyphen"/>tance of our Services.</p>
+            <p>There are two extreams that are of very dangerous conſequence to the Chriſtian Church, and they are either too much Religion, or too little; by too much, I mean not living too well, (for this Age of all other has little reaſon to complain of that,) but as it is circumſtan<g ref="char:EOLhyphen"/>tiated by the Superſtitious; by too little, as it is expoſed and derided by the Prophane. Now
+<pb n="16" facs="tcp:95068:10" rendition="simple:additions"/>he that attributes the riſe of both theſe, to that Fear of God which proceeds from His being thought more cruel than merciful, ſeems not much to err.</p>
+            <p>For Superſtition being a looking upon things as neceſſary to be done in the Worship of God, which in reality are not, or a continual ado<g ref="char:EOLhyphen"/>ration of God in an undue manner, can have no other reaſon, (unleſs that it be by deſign to pleaſe or awe the People with trifles,) than the Fancies of Melancholick Men, who apprehen<g ref="char:EOLhyphen"/>ding the Deity they worſhip ſcarcely ever ſatiſ<g ref="char:EOLhyphen"/>fied with their beſt performances, forſake a ſober, manly, and well temper'd Devotion, and chuſe rather to addreſs themſelves to Him with over many affected expreſſions of ſubmiſſion, as believing them abſolutely neceſſary to His Ser<g ref="char:EOLhyphen"/>vice, and that nothing beſides circumſtances and fawning, can propritiate their cruel God.</p>
+            <p>But further, Fear has been the occaſion of too little Religion in others, that is, it has betraid many by degrees, and inſenſibly into Infidelity and downright Atheiſm.</p>
+            <p>For if the fear of any thing be the apprehen<g ref="char:EOLhyphen"/>ſion
+<pb n="17" facs="tcp:95068:10" rendition="simple:additions"/>of ſome evil, that may befall me from that thing, what is more natural, than for thoſe who cannot diſcern ſo much excellency and goodneſs in the Object of their Worſhip, as to love him, not only to avoid his preſence, but to wiſh evil to him, or indeed to deſire there were no ſuch thing in the World?</p>
+            <p>This undue Fear, keeps ſome, who are con<g ref="char:EOLhyphen"/>ſcious of their iniquities, ſo much in doubt of His Mercy, that they never dare adventure up<g ref="char:EOLhyphen"/>on repentance, but proceeding to harden them<g ref="char:EOLhyphen"/>ſelves in impiety 'till their Conſciences become almoſt dead, they find it the eaſieſt way both to juſtifie their actions, and eaſe the tortures of their Minds, by denying firſt their own Immor<g ref="char:EOLhyphen"/>tality, then the Lord that bought them, after<g ref="char:EOLhyphen"/>ward, with face ſufficient, but without the leaſt ſhew of argument, publickly maintaining, that God and the Devil, Yirtue and Vice, Re<g ref="char:EOLhyphen"/>wards and Puniſhments, are words ſignifying nothing, invented meerly to affright ſome, to curb and check the inſolency of others, and to keep all in obedience to the Government they live under.</p>
+            <pb n="18" facs="tcp:95068:11" rendition="simple:additions"/>
+            <p>Thus making Religion no other than a well<g ref="char:EOLhyphen"/>contriv'd piece of Policy, and God only as a bare Notion, by the maintenance whereof a<g ref="char:EOLhyphen"/>mongſt the Vulgar, the Intrigues of State, and the Temporal Deſigns of Princes may be the better ſerved,</p>
+            <p>So that 'tis not always Generouſneſs of Spirit, but ſometimes Fear, that makes Men raſh; and 'tis not ſo much Valour, as Cowardiſe, that leads them to Atheiſm.</p>
+            <p>Theſe ill Conſequents therefore of Fear alone, are an argument that we never fear God aright, but when we love Him too; to complete His Worſhip, Fear and Love muſt go hand in hand, our Love will carry us into the Boſom of our Creatour, make us feel and taſte how good and gracious the Lord is, whilſt our Fear will cha<g ref="char:EOLhyphen"/>ſtiſe the extravagencies of Love, and teach us to keep an awful diſtance from ſo incomparable a Majeſty.</p>
+            <p>To pretend to Love without Fear, is to be preſumptuous; and to Fear without Love, is to expoſe our ſelves to the foremention'd inconve<g ref="char:EOLhyphen"/>niencies, and in effect to make the God we wor<g ref="char:EOLhyphen"/>ſhip, none other than the Devil.</p>
+            <pb n="19" facs="tcp:95068:11" rendition="simple:additions"/>
+            <p n="2">II. Another Qualification is, that our holi<g ref="char:EOLhyphen"/>neſs and righteouſneſs be before God, that is, that we might both in the acts of Devotion, and in the whole courſe of our Lives, behave our ſelves, as if we believ'd our thoughts and actions were expos'd to the view of an Almighty Eye.</p>
+            <p>And this excludes all partial obedience, and all hypocriſie.</p>
+            <p n="1">1. It excludes all partial obedience, it implies an univerſal regard to all his Laws, to little as well as great Commands, for obedience is as ſoon diſcern'd in ſmall as in great matters, and the ſmaller the Command the greater the Sin in not obſerving it, the eaſineſs of the Command always enhanſing the guilt of the neglect: Now 'tis the excellency of that Rule we ought to walk by, that it is many degrees above all the Precepts of a good Life, which were ever before made known to Man; it not only curbs the outward act, but lays a reſtraint upon our very thoughts, and the ſecreteſt retirements of our Souls; and therefore that righteouſneſs which is not exact to this Rule, cannot be ſaid
+<pb n="20" facs="tcp:95068:12" rendition="simple:additions"/>to be before God, who judges our actions good, or otherwiſe, as they come up to, or decline from it.</p>
+            <p>So that they take their meaſures amiſs, who, if they can preſerve, themſelves from Sins of the deepeſt dye, from groſs and notorious pol<g ref="char:EOLhyphen"/>lutions, which would expoſe them to the con<g ref="char:EOLhyphen"/>tempt and chaſtiſement of the World, think they may innocently enough deſpiſe Dignities, condemn thoſe in Authority, feed their impure fancies upon dirty and beaſtly Objects, as if the ſame God that had commnaded us to obey for Conſcience ſake, had not forbidden us to ſpeak evil of the Ruler of the People; or as if the ſame God that had warn'd us againſt Adul<g ref="char:EOLhyphen"/>tery, had not forbad us likewiſe to look upon a Woman to luſt after her; or as if He that had prohibited us Perjury, had not charg'd us not to Swear at all; or as if the ſame Spirit that had ſaid, <hi>Be not filled with Wine, wherein is exceſs,</hi> had not enjoyn'd us to be pure, temperate, and ſober.<note place="margin">Ch. <hi>2.</hi> v. <hi>10.</hi>
+               </note> St. <hi>James</hi> tells us, <hi>that he that offends in one point is guilty of all,</hi> that is, he obeys none as he ought; for he that in obedience to one
+<pb n="21" facs="tcp:95068:12" rendition="simple:additions"/>Command, regards the Glory of God, the Love of Virtue, and his own Happineſs, will do ſo to all, in as much as they all proceed from the ſame Infinite Reaſon, are all enacted by the ſame Divine Authority, are all confirm'd by equally Holy Sanction; ſo that righteouſ<g ref="char:EOLhyphen"/>neſs being uniform, and all of a make, implies an earneſt Prayer and an Hearty Endeavour, that God's whole Will be done by us on Earth, as it is by thoſe Bleſſed Spirits that ſerve Him in Heaven.</p>
+            <p n="2">2. Righteouſneſs before Him excludes all hy<g ref="char:EOLhyphen"/>pocriſie: He whoſe Religion ſinks no deeper than his skin, does but perſonate the Religious Man, complement God, and deceive himſelf into his own perpetual ruin. Were our future Sentence to be pronounced by Men, Righ<g ref="char:EOLhyphen"/>teouſneſs before them might ſuffice; but if there be a God, as I deſire no other argument that there is one, than the Teſtimony within every ones own Breaſt, judgment will be given, not according to what a Man ſeems to be, but to what he really is. By hypocriſie we are ex<g ref="char:EOLhyphen"/>pos'd to the greateſt dangers, we run the ha<g ref="char:EOLhyphen"/>zard
+<pb n="22" facs="tcp:95068:13" rendition="simple:additions"/>of all the woes that are denounc'd againſt it by our Saviour, we expoſe the beſt Inſtitu<g ref="char:EOLhyphen"/>tion in the World to diſgrace and infamy, we become the ſcandal of all that have any real ſenſe of goodneſs, who judge of our opinions by our practiſe, and of our Religion by the Life we lead. Now who in reaſon can think, that Man deſerves to be called holy or righteous, who brings a diſrepute upon that Goſpel, his obedience only to which can give him title to thoſe worthy names.</p>
+            <p>However, if any thing can be ſaid in behalf of pretending to be what we are not, it muſt be this: that in thoſe, who either by Dignity, Place, or Order, are concern'd in the Conduct and Government of a Multitude, it is far more tollerable, than living in a profeſt defiance of God and Goodneſs; for ſince the Example of ſuch, is almoſt of equal force, with the Popu<g ref="char:EOLhyphen"/>lacy, as a Law; ſince what they do, and not what they command, is Moſt regarded; a ſhew of Piety in them that are really wicked, may have a good effect upon others, and a pretence of Goodneſs, make may good,
+<pb n="23" facs="tcp:95068:13" rendition="simple:additions"/>though the Perſons that pretend it become Caſt<g ref="char:EOLhyphen"/>aways.</p>
+            <p>This is no Plea for Hypocriſie, but for good Examples, and being they are not inconſiſtent, for a Man may be righteous before Men, who is not ſo before God, the leaſt of the evils is more tollerable, and the evil is to be meaſured not from the miſchief the Hypocrite brings upon himſelf by being ſo, but from the bad in<g ref="char:EOLhyphen"/>fluence, that a bad Example in Perſons of Emi<g ref="char:EOLhyphen"/>nence would have upon a multitude.</p>
+            <p>But ſince 'tis almoſt as difficult to pretend goodneſs, as to be really good, ſince 'tis well nigh as hard to conceal our hypocryſie, as to be upright and ſincere, it is upon many accounts far more eligible to be righteous before God, than Men, but eſpecially, becauſe righteouſneſs before Him, which excludes all hypocriſie, pre<g ref="char:EOLhyphen"/>vents all thoſe Miſchiefs, to which hypocriſie makes us liable.</p>
+            <p n="3">3. The laſt qualification is, that our righ<g ref="char:EOLhyphen"/>teouſneſs be conſiſtent to it ſelf, regular, and without intermiſſion; not that we are requir'd to be always humbling our ſelves in pure acts
+<pb n="24" facs="tcp:95068:14" rendition="simple:additions"/>of Devotion and Worſhip, (as ſome have very vainly imagin'd, to the neglect of their own neceſſary affairs, and ſometimes to the prejudice of others, to whom they ſtand in duty bound) or that we were conſtantly to have our ulti<g ref="char:EOLhyphen"/>mate end in our thoughts, ſo that every Man, in all his actions, muſt then whilſt he is acting thing upon Happineſs; but the Service of God conſiſting, as has been ſaid,
+<list>
+                  <item>(1.) in a belief that He is, <hi>&amp;c.</hi> 'tis neceſſary that we always have an habitual ſenſe of Him, and His Goodneſs, and live in a dependance on Him, though our thoughts are not actually fixt upon Him: And</item>
+                  <item>(2.) as it implies Worſhip and Adoration, it is requiſit that we omit nothing of our neceſſary, Devotions, but that we pray continually, and that we pray without ceaſing, which imports thus much at leaſt, that we never fail to offer up unto God our Morning and Evening Sacri<g ref="char:EOLhyphen"/>fices of Prayer and Thankſgiving, or neglect the Breaking of Bread, or the Aſſembly of the Saints, as the cuſtome of ſome is: But</item>
+                  <item>(3.) as it ſignifies holineſs in our Lives and Conver<g ref="char:EOLhyphen"/>ſations, in this ſenſe we are always to do good,
+<pb n="25" facs="tcp:95068:14" rendition="simple:additions"/>and never faint; which is highly reaſonable, and neceſſary upon many accounts; I inſtance only in two, which are very obvious:</item>
+               </list>
+            </p>
+            <p>Firſt, Such is the nature of Happineſs, that a ſmall part of our Lives will ſcarcely be ſuffi<g ref="char:EOLhyphen"/>cient to fit us for the enjoyment of it; for ſince to be happy in one word is to be like God, and to be like Him is to be holy, as He is holy, and Holineſs ſuppoſing our Corruptions ſubdued, and our Paſſions and Affections brought under the Command of Reaſon and Religion, which whether it can be done at a minutes, or an hours or a days warning, I will not ſtand to prove, but appeal to all thoſe, who have at any time experienced, what a task it is, to overcome ſuch ill Cuſtoms, as the natural Conſtitutions and Tempers of their Bodies, the prevailing Ex<g ref="char:EOLhyphen"/>amples of others, and the faſhion of a looſe Age, may well be preſum'd to have ſubjected them to.</p>
+            <p>It is true, with God nothing is impoſſible, neither dare we limit His Mercy to poor Sinners, but if we may judge by what we find revealed (as there is no better way of judging) tou<g ref="char:EOLhyphen"/>ching the Conditions whereby a better Life is
+<pb n="26" facs="tcp:95068:15" rendition="simple:additions"/>attainable, nothing leſs than a Miracle can preſerve thoſe, who have ſerv'd their Luſts all the days of their Life, and whom the Lord at His coming findeth ſo doing.</p>
+            <p>For at the laſt gaſp, to have our minds per<g ref="char:EOLhyphen"/>fectly chang'd, to have infus'd into them Faith, Hope, Charity, an unfeigned Love to God and our Brethren, to Goodneſs and Virtue, <hi>&amp;c.</hi> is a Doctrine which is very comfortable, but was never the Deſign of Chriſt to propagate, any otherwiſe than barely poſſible, and that by one Inſtance only, to prevent Deſpair.</p>
+            <p>And yet, what are not wicked Men ready to catch at, to buoy themſelves up in their own ways?</p>
+            <p>Some there are of all ſorts of Chriſtians, who had rather renounce their own Reaſon, miſ<g ref="char:EOLhyphen"/>underſtand their own Principles, and abuſe the Church they are of, than want a pretence to Heaven.</p>
+            <p>Thoſe of the Church of <hi>Rome,</hi> pleaſe them<g ref="char:EOLhyphen"/>ſelves with the thoughts of Abſolution, before their Death. Others, who pretend to be <hi>Refor<g ref="char:EOLhyphen"/>miſts,</hi> imagin, that by Faith Chriſt's Righteouſ<g ref="char:EOLhyphen"/>neſs
+<pb n="27" facs="tcp:95068:15" rendition="simple:additions"/>ſhall be accounted theirs, though they have none at all of their own.</p>
+            <p>As if the Church of <hi>Rome</hi> (I don't ſay any private Perſon or Caſuiſt thereof) believ'd Ab<g ref="char:EOLhyphen"/>ſolution ſignified any thing, without ſuch a pre<g ref="char:EOLhyphen"/>paration for it, as is implyed at leaſt by a hearty deteſtation of all Sin, hope of pardon through the Mercy of God, and a concurrence with the motions of His Spirit to the works of Righte<g ref="char:EOLhyphen"/>ouſneſs: Or, as if ours had any where declar'd, that a dead Faith, that is, a Faith without mo<g ref="char:EOLhyphen"/>tion and operation, that is, a Faith without Works, were effectual to any Man's eternal Happineſs.</p>
+            <p>If any ignorant or malicious <hi>Romaniſt,</hi> to gain Proſelytes, ſhall teach the one to be the Doctrine of their Church, he affirms her Doctrine to be contrary to what is truly Ancient and Ca<g ref="char:EOLhyphen"/>tholick, nay he contradicts the very Determi<g ref="char:EOLhyphen"/>nation of the Council of <hi>Trent</hi> it ſelf. Or,<note place="margin">Can. de Coutr it.</note> if any froward Zealot ſhall publiſh the other, as held by the Church of <hi>England,</hi> he is not of Us, neither has he judgment or ſenſe enough to un<g ref="char:EOLhyphen"/>derſtand Us, or the expreſs words of St. <hi>James.</hi>
+               <note place="margin">
+                  <hi>Ch.</hi> 2.17, 24.</note>
+            </p>
+            <pb n="28" facs="tcp:95068:16" rendition="simple:additions"/>
+            <p>For thus far I hope both Churches, and all Chriſtians agree, however we fall out about other matters, that to raiſe Men to a confor<g ref="char:EOLhyphen"/>mity with the Divine Nature, by inward and true piety and holineſs, was the main intent of our Saviour; and that nothing can ſo effectually bring us to that temper, and conſequently to the Joys of Heaven, as a conſciencious com<g ref="char:EOLhyphen"/>pliance in every thing with the will of God.</p>
+            <p>So that to perſevere in ſin, 'till we come to dye, upon preſumption, that the foremention'd Doctrines are the Doctrines of our reſpective Churches, or ſuppoſing they were ſo, that they will then be our Security, is to impoſe upon our own Souls, and betray our ſelves into that mi<g ref="char:EOLhyphen"/>ſery, which neither Abſolution without Repen<g ref="char:EOLhyphen"/>tance, nor Faith without good Works, can free us from.</p>
+            <p n="2">2. It is neceſſary that we be righteous <hi>all the days of our life,</hi> becauſe the Reward is promis'd only to thoſe that perſevere:<note place="margin">Ezek. <hi>18.</hi>
+               </note> 
+               <hi>when the righteous man turneth away from his righteouſneſs, and com<g ref="char:EOLhyphen"/>mitteth iniquity, all the righteouſneſs that he hath done ſhall not be mention'd, in his treſpaſs that he hath
+<pb n="29" facs="tcp:95068:16" rendition="simple:additions"/>treſpaſſed, and in his ſin that he hath ſinned, in them ſhall be dye.</hi>
+            </p>
+            <p>What ever worthy habits any Man has at any time had, or what ever virtuous Inclinations, they are all deſtroyed by their contrary Vices; for as good habits are increas'd and ſtreng<g ref="char:EOLhyphen"/>then'd in us, by our concurring with the Grace of God, in producing many good actions, ſo do they decay and fail, by our ceaſing to do well; and if Death finds us with a greater pro<g ref="char:EOLhyphen"/>penſity to Vice than Virtue, all our former righ<g ref="char:EOLhyphen"/>teouſneſs will ſtand us but in little ſtead, in as much as it is not, and our preſent wickedneſs prevailing, will be ſufficient to condemn us.</p>
+            <p>Therefore are we ſo earneſtly advis'd, to be ſtedfaſt, unmoveable, and always to abound in the Work of the Lord, becauſe the Works only of them that do ſo ſhall follow them into a better World.</p>
+            <p>God in Juſtice is oblig'd to give to every man according to his Deeds, not according to their Opinions or Fancies: <hi>To them that are contentious,</hi>
+               <note place="margin">Rom. <hi>2.6,</hi> &amp;c.</note>
+               <hi>and do not obey the truth, but obey unrighteoſneſs, indignation and wrath, tribulation and anguiſh upon
+<pb n="30" facs="tcp:95068:17" rendition="simple:additions"/>every Soul that doth evil; but glory, honour, and peace to every man that worketh good,</hi> and to them alone <hi>who by patient continuance in well-doing ſeek for glory and honour and immortality, eternal life;</hi> the reaſonable expectation whereof, upon this, and no other ground, may be of ſome force to engage all conſiderate Men in the Service of God all the days of their life.</p>
+            <p>But one word more, and I have done. If Eternal Life be the Lot of the Righteous in Ge<g ref="char:EOLhyphen"/>neral; if thoſe whom Providence has plac'd in a lower Sphere, the meaneſt Peaſant, and moſt deſpicable <hi>Lazarus;</hi> nay, if ſo inconſiderable a Creature as he that ſpeaks, be capable of the Enjoyments ſignified by thoſe words; how vaſt<g ref="char:EOLhyphen"/>ly unconceivable ſhall be the portion of God's immediate Vicegerents, eſpecially of thoſe, who through good reports and evil reports, in perils at home and in perils abroad, in perils by Sea and in perils by Land, in perils by Strangers and in perils by their own Countrey-men, have notwithſtanding ſtill maintain'd the Cauſe of Religion, earneſtly <hi>contended for the Faith once delivered to the Saints;</hi> and all, that they might
+<pb n="31" facs="tcp:95068:17" rendition="simple:additions"/>by their care and perſeverance, turn the hearts of the diſobedient to the wiſdom of the juſt, and to their power, make ready a People prepared for the Lord.</p>
+            <p>
+               <hi>They that turn many unto righteouſneſs,</hi> ſays the Prophet <hi>Daniel, ſhall be as the Stars for ever more:</hi> And, if the Inſtruments of Mens Converſion, if they who by their example and advice have ſerv'd the Intereſt of Souls, ſhall be as the leſſer Stars, certainly Chriſtian Monarchs, in whoſe hands under God thoſe Inſtruments are, and to whom all the bleſſed Effects of the Miniſtration of the Goſpel under their protection, (if they themſelves are good) ſhall be accounted, ſhall ſhine as the larger Luminaries, with a more abun<g ref="char:EOLhyphen"/>dant luſtre and glory.</p>
+            <p>Bleſs'd Princes! who have this Teſtimony within themſelves, that they have ſecur'd unto God the things that are Gods, and have faith<g ref="char:EOLhyphen"/>fully diſcharg'd the Truſt repos'd in them, for their Peoples eternal as well as temporal advan<g ref="char:EOLhyphen"/>tage; for beſide the Reward which will be gi<g ref="char:EOLhyphen"/>ven to them in common with other good Ser<g ref="char:EOLhyphen"/>vants, proportionable to the improvement made
+<pb n="32" facs="tcp:95068:18" rendition="simple:additions"/>of their ſeveral Talents, the attendance of an Heavenly Train, and the Acclamations and <hi>Euge's</hi> of the moſt Judicious, that is, of Happy Souls, (how much or little ſo ever they may add to the beginnings of future felicity,) will not be wanting.</p>
+            <p>For why may we not reaſonably preſume, that when good Kings come to dye, as dye they muſt, and fall like other Men, Millions of the Spirits of their own juſt Subjects made per<g ref="char:EOLhyphen"/>fect, and the Angels of God ſhall wait their departure hence, and wing their Great Souls with triumph into the Celeſtial Habitations; there preſenting them to the Holy and Undivi<g ref="char:EOLhyphen"/>ded Trinity, that they may be incorporated into the Number of Saints, be Crown'd with Dia<g ref="char:EOLhyphen"/>dems of Immortality, and receive <hi>an Inheri<g ref="char:EOLhyphen"/>tance incorruptible, and undefiled, and that fadeth not away, reſerv'd in Heaven for thoſe who are kept by the power of God through faith unto ſal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>Oh; that this may be the Portion of all Chri<g ref="char:EOLhyphen"/>ſtian Kings, Princes, and Governours, and eſpecially of Him, for whom our Souls deſire
+<pb n="33" facs="tcp:95068:18" rendition="simple:additions"/>to bleſs God; that this may be the Portion of all that ſtudy to enlarge the Empire of the Holy Jeſus in Truth and goodneſs, that Pro<g ref="char:EOLhyphen"/>tect His Church, that Defend His Faith; and that this may be the Portion of all the World that live in obedience to that Faith, and make Conſcience of Serving God <hi>in Holineſs and Righ<g ref="char:EOLhyphen"/>teouſneſs before Him all the days of their Life. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
